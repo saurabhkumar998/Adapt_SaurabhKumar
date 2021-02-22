@@ -1,0 +1,7 @@
+h1{
+    font-weight: lighter;
+    border: 1px solid red;
+    outline-style:dotted;
+    outline-color: rgb(23, 247, 23);
+    outline-width: 4px;
+}
